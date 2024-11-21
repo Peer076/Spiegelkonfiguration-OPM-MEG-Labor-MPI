@@ -1,0 +1,8 @@
+*.ipt
+*.idw
+*.iam
+.idea
+venv/
+*.txt
+
+
